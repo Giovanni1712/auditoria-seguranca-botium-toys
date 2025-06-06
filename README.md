@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner da Auditoria Interna de Segurança da Informação" />
+</p>
+
 # Auditoria de Segurança da Informação - Botium Toys
 
 Este repositório contém os resultados da auditoria interna de segurança da informação realizada na empresa fictícia **Botium Toys**, como parte de um exercício acadêmico.
@@ -17,3 +21,4 @@ Avaliar os riscos e propor melhorias que fortaleçam a postura de segurança da 
 ## ⚠️ Aviso
 
 > Esta atividade foi realizada com fins educacionais para demonstrar conhecimento em auditoria de segurança da informação.
+
