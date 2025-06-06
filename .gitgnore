@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar backups de editores
+*.bak
+*~
+
+# Ignorar diretórios do sistema
+node_modules/
+.env
